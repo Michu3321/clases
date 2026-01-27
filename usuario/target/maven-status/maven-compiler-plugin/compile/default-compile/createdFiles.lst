@@ -1,0 +1,16 @@
+com\uce\usuario\UsuarioApplication.class
+com\uce\usuario\logic\usercases\GetUsuarioByIdUserCase.class
+com\uce\usuario\data\entities\db\UsuarioEntityDb$UsuarioEntityDbBuilder.class
+com\uce\usuario\controllers\services\UsuarioService.class
+com\uce\usuario\logic\usercases\EditUsuarioUserCase.class
+com\uce\usuario\logic\usercases\DeleteUsuarioUserCase.class
+com\uce\usuario\data\repository\UsuarioRepository.class
+com\uce\usuario\controllers\data\entities\UsuarioDTO.class
+com\uce\usuario\data\entities\db\UsuarioEntityDb.class
+com\uce\usuario\controllers\data\entities\UsuarioEntityUI.class
+com\uce\usuario\logic\usercases\GetAllUsuarioUserCase.class
+com\uce\usuario\logic\validators\Result$Failure.class
+com\uce\usuario\logic\validators\Result$Success.class
+com\uce\usuario\controllers\data\converters\EntityConverters.class
+com\uce\usuario\logic\usercases\RegisterUsuarioUserCase.class
+com\uce\usuario\logic\validators\Result.class

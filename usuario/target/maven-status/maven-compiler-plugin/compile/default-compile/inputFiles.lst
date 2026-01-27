@@ -1,0 +1,13 @@
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\controllers\data\converters\EntityConverters.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\controllers\data\entities\UsuarioDTO.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\controllers\data\entities\UsuarioEntityUI.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\controllers\services\UsuarioService.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\data\entities\db\UsuarioEntityDb.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\data\repository\UsuarioRepository.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\usercases\DeleteUsuarioUserCase.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\usercases\EditUsuarioUserCase.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\usercases\GetAllUsuarioUserCase.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\usercases\GetUsuarioByIdUserCase.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\usercases\RegisterUsuarioUserCase.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\logic\validators\Result.java
+C:\Users\Usuario iTC\Desktop\UCE\EL 10\Ing.Software\clases\usuario\src\main\java\com\uce\usuario\UsuarioApplication.java
